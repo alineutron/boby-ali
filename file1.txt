@@ -1,2 +1,0 @@
-This is my first file. I would like to add this to main.
-This is my second file. I will add this to main and delete.
